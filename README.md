@@ -13,7 +13,11 @@ Common tags: Environmental Engineering, Wastewater, Mechanstic Modeling, Data Sc
 
 ![Junjie Zhu, Ph.D.](https://junjiezhublog.files.wordpress.com/2023/06/artwork-1.jpg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starfriend10)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=starfriend10)  
+
+![Profile views](https://gpvc.arturio.dev/starfriend10)  
 
 
 
