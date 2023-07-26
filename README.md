@@ -31,6 +31,11 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 **Zhu, J.-J.**, Kang, L., & Anderson, P. R. (2018). Predicting influent biochemical oxygen demand: Balancing energy demand and risk management. Water Research, 128, 304-313. [https://doi.org/10.1016/j.watres.2017.10.053](https://doi.org/10.1016/j.watres.2017.10.053). [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fadc9112828eb0101c5ec2f7dfb48cee31ad4fa49%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Predicting-influent-biochemical-oxygen-demand%3A-and-Zhu-Kang/adc9112828eb0101c5ec2f7dfb48cee31ad4fa49) 
 
+**Zhu, J.-J.**, & Anderson, P. R. (2017). Effect of long-term successive storm flows on water reclamation plant resilience. Water Research, 111, 1-9. [https://doi.org/10.1016/j.watres.2016.12.026](https://doi.org/10.1016/j.watres.2016.12.026). [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb11e079158598af358ef06a42e5a46f01fab7545%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Effect-of-long-term-successive-storm-flows-on-water-Zhu-Anderson/b11e079158598af358ef06a42e5a46f01fab7545) 
+
+
+**Selected talks and presenations** 
+
 
 
 ![Junjie Zhu, Ph.D.](https://junjiezhublog.files.wordpress.com/2023/06/artwork-1.jpg)
