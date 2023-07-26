@@ -2,12 +2,13 @@
 
 #### Junjie Zhu, Ph.D.
 Associate research scholar (i.e., research assistant professor) in the Department of Civil and Environmental Engineering and Andlinger Center for Energy and the Environment at the Princeton University. 
-Data4Environ: Working on data science applications to environmental science and engineering
-Common tags: Environmental Engineering, Wastewater, Mechanstic Modeling, Data Science, Machine Learning, Deep Learning, Hybrid Modeling, Natural Language Processing, Soft Sensor, Text Mining, Metaheuristic
+
+**Data4Environ**: Working on data science applications to environmental science and engineering
+**Common tags**: Environmental Engineering, Wastewater, Mechanstic Modeling, Data Science, Machine Learning, Deep Learning, Hybrid Modeling, Natural Language Processing, Soft Sensor, Text Mining, Metaheuristic
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/starfriend10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/junjiezhu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Jun_Jie_Zhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://junjiezhublog.wordpress.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Junjie-Zhu-14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=n9Zatu8AAAAJ)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/starfriend10)                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/junjiezhu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Jun_Jie_Zhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://junjiezhublog.wordpress.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Junjie-Zhu-14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=n9Zatu8AAAAJ)  
 
 
 
