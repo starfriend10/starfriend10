@@ -1,7 +1,7 @@
 
 
 ####
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/starfriend10) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/junjiezhu//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/Jun_Jie_Zhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://junjiezhublog.wordpress.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='30'>](https://www.researchgate.net/profile/Junjie-Zhu-14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='30'>](https://scholar.google.com/citations?user=n9Zatu8AAAAJ)<p align="left"> <img src="https://komarev.com/ghpvc/?username=starfriend10&label=Profile%20views&color=0e75b6&style=flat" alt="starfriend10" /> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://junjiezhublog.wordpress.com/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/starfriend10) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/junjiezhu//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/Jun_Jie_Zhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='30'>](https://www.researchgate.net/profile/Junjie-Zhu-14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='30'>](https://scholar.google.com/citations?user=n9Zatu8AAAAJ)<p align="left"> <img src="https://komarev.com/ghpvc/?username=starfriend10&label=Profile%20views&color=0e75b6&style=flat" alt="starfriend10" /> </p>
 
 Associate research scholar (i.e., research assistant professor) in the Department of Civil and Environmental Engineering and Andlinger Center for Energy and the Environment at the Princeton University. 
 
@@ -11,6 +11,15 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 
 
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
 
 
 
@@ -18,8 +27,7 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 
 
-
-**Representative peer-reviewed papers** 
+##**Representative Peer-reviewed Papers** 
 
 (Citation number is based on [semanticscholar API](https://api.semanticscholar.org/api-docs/graph#tag/Paper-Data/operation/get_graph_get_paper), check [Google Scholar](https://scholar.google.com/citations?user=n9Zatu8AAAAJ&hl=en) for more accurate numbers)
 
@@ -35,7 +43,7 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 **Zhu, J.-J.**, & Anderson, P. R. (2017). Effect of long-term successive **storm flows** on water reclamation **plant resilience**. *Water Research*, 111, 1-9. [https://doi.org/10.1016/j.watres.2016.12.026](https://doi.org/10.1016/j.watres.2016.12.026). [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb11e079158598af358ef06a42e5a46f01fab7545%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Effect-of-long-term-successive-storm-flows-on-water-Zhu-Anderson/b11e079158598af358ef06a42e5a46f01fab7545) 
 
 
-**Selected talks and presenations** 
+##**Selected Talks and Presentations** 
 
 “Common Pitfalls and Best Practices in ML for Environmental Research”. June, 2023. **2023 AEESP conference**. Northeastern University, Boston, MA. [Presentation Slides](https://junjiezhublog.files.wordpress.com/2023/06/aeesp-junjie-final-slides-sharing-1.pdf)
 
