@@ -7,7 +7,7 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 **Data4Environ**: Working on data science research and applications to environmental science and engineering
 
-**Common tags**: Environmental Engineering, Wastewater, Mechanstic Modeling, Data Science, Machine Learning, Deep Learning, Hybrid Modeling, Natural Language Processing, Soft Sensor, Text Mining, Metaheuristic
+**Common Tags**: Environmental Engineering, Wastewater, Mechanstic Modeling, Data Science, Machine Learning, Deep Learning, Hybrid Modeling, Natural Language Processing, Soft Sensor, Text Mining, Metaheuristic
 
 
 
@@ -16,6 +16,19 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 
 ![Junjie Zhu, Ph.D.](https://junjiezhublog.files.wordpress.com/2023/06/artwork-1.jpg)
+
+
+
+
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fedadc85ff8da84585463ecb1dd427dd7fa6fd548%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Machine-Learning-in-Environmental-Research%3A-Common-Zhu-Yang/edadc85ff8da84585463ecb1dd427dd7fa6fd548)
+
+
+
+
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starfriend10)](https://github.com/anuraghazra/github-readme-stats)
 
