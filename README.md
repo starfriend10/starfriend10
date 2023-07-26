@@ -37,15 +37,15 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 **Selected talks and presenations** 
 
-“Common Pitfalls and Best Practices in ML for Environmental Research”. June, 2023. 2023 AEESP conference. Northeastern University, Boston, MA. [Presentation Slides](https://junjiezhublog.files.wordpress.com/2023/06/aeesp-junjie-final-slides-sharing-1.pdf)
+“Common Pitfalls and Best Practices in ML for Environmental Research”. June, 2023. **2023 AEESP conference**. Northeastern University, Boston, MA. [Presentation Slides](https://junjiezhublog.files.wordpress.com/2023/06/aeesp-junjie-final-slides-sharing-1.pdf)
 
-“Utilizing Soft Sensor System for Process Control and Optimization”. October, 2021. 2021 WRF/WEF Leaders Innovation Forum for Technology (LIFT) Intelligent Water Systems (IWS) Challenge. 2021 WEFTEC, Chicago, IL. (First place prize). [News Webpage](https://www.waterrf.org/news/2021-intelligent-water-systems-challenge)
+“Utilizing Soft Sensor System for Process Control and Optimization”. October, 2021. 2021 WRF/WEF Leaders Innovation Forum for Technology (LIFT) Intelligent Water Systems (**IWS**) **Challenge**. 2021 WEFTEC, Chicago, IL. (First place prize). [News Webpage](https://www.waterrf.org/news/2021-intelligent-water-systems-challenge)
 
-“Hyperparameter optimized deep learning for soft sensing hard-to-measure wastewater information”. November, 2020. Panel presentation. Hybrid Models in Wastewater: Merging Mechanistic with Data-Drive. International Water Association (IWA) webinar. [Webinar Webpage](https://iwa-network.org/learn/hybrid-models-in-wastewater-merging-mechanistic-with-data-driven/)
+“Hyperparameter optimized deep learning for soft sensing hard-to-measure wastewater information”. November, 2020. Panel presentation. Hybrid Models in Wastewater: Merging Mechanistic with Data-Drive. **International Water Association (IWA) webinar**. [Webinar Webpage](https://iwa-network.org/learn/hybrid-models-in-wastewater-merging-mechanistic-with-data-driven/)
 
-“Using data science for prediction and decision-making in operation and literature: Two research examples”. August, 2020. Panel presentation. NSF Mid-scale Research Infrastructure Workshop for Intelligent Water Systems. Princeton, NJ. [Workshop Webpage](https://acee.princeton.edu/nsf-intelligent-water-systems-2020/)
+“Using data science for prediction and decision-making in operation and literature: Two research examples”. August, 2020. Panel presentation. **NSF Mid-scale Research Infrastructure Workshop for Intelligent Water Systems**. Princeton, NJ. [Workshop Webpage](https://acee.princeton.edu/nsf-intelligent-water-systems-2020/)
 
-“A soft-sensor software application for environmental data: Examples from water resources”. February, 2018. Invited presentation. 2018 AEESP Distinguished Lecturer Conference. Purdue University. West Lafayette, IN. [Conference Brochure](https://engineering.purdue.edu/EEE/AboutUs/Events/2018/aeesp-distinguished-lecturer-conference/AEESPdlc_Brochure.pdf)
+“A soft-sensor software application for environmental data: Examples from water resources”. February, 2018. Invited presentation. **2018 AEESP Distinguished Lecturer Conference**. Purdue University. West Lafayette, IN. [Conference Brochure](https://engineering.purdue.edu/EEE/AboutUs/Events/2018/aeesp-distinguished-lecturer-conference/AEESPdlc_Brochure.pdf)
 
 
 
