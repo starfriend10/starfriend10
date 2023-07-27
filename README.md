@@ -13,16 +13,14 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 ---
 
-##**Research Gallery** 
+## **Research Gallery** 
 ![RG](https://junjiezhublog.files.wordpress.com/2023/07/research-gallery-202307m2.jpg)
-
-
 
 
 
 ---
 
-##**Representative Peer-reviewed Papers** 
+## **Representative Peer-reviewed Papers** 
 
 (Citation number is based on [semanticscholar API](https://api.semanticscholar.org/api-docs/graph#tag/Paper-Data/operation/get_graph_get_paper), check [Google Scholar](https://scholar.google.com/citations?user=n9Zatu8AAAAJ&hl=en) for more accurate numbers)
 
@@ -39,7 +37,7 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 ---
 
-##**Selected Talks and Presentations** 
+## **Selected Talks and Presentations** 
 
 “Common Pitfalls and Best Practices in ML for Environmental Research”. June, 2023. **2023 AEESP conference**. Northeastern University, Boston, MA. [Presentation Slides](https://junjiezhublog.files.wordpress.com/2023/06/aeesp-junjie-final-slides-sharing-1.pdf)
 
