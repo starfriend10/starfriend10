@@ -5,13 +5,16 @@
 
 Associate research scholar (i.e., research assistant professor) in the Department of Civil and Environmental Engineering and Andlinger Center for Energy and the Environment at the Princeton University. 
 
+---
+
 **Data4Environ**: Working on data science research and applications to environmental science and engineering
 
 **Common Tags**: Environmental Engineering, Wastewater, Mechanstic Modeling, Data Science, Machine Learning, Deep Learning, Hybrid Modeling, Natural Language Processing, Soft Sensor, Text Mining, Metaheuristic
 
 ---
 
-
+##**Research Gallery** 
+(https://junjiezhublog.files.wordpress.com/2023/07/research-gallery-202307m2.jpg)
 
 
 
