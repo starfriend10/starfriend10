@@ -16,12 +16,13 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 ### **Research Gallery** 
 ![RG](https://junjiezhublog.files.wordpress.com/2023/07/research-gallery-202307m2-1.jpg)
 
+<a href="[http://...](https://scholar.google.com/citations?user=n9Zatu8AAAAJ)" target="_blank">Google Scholar</a>
 
 ---
 
 ### **Representative Peer-reviewed Papers** 
 
-(Citation numbers are based on [semanticscholar API](https://api.semanticscholar.org/api-docs/graph#tag/Paper-Data/operation/get_graph_get_paper), check [Google Scholar](https://scholar.google.com/citations?user=n9Zatu8AAAAJ&hl=en) for more accurate numbers)
+(Citation numbers are based on [semanticscholar API](https://api.semanticscholar.org/api-docs/graph#tag/Paper-Data/operation/get_graph_get_paper), check [Google Scholar](https://scholar.google.com/citations?user=n9Zatu8AAAAJ) for more accurate numbers)
 
 **Zhu, J.-J.**, Yang, M., & Ren, Z. J. (2023). **Machine Learning** in Environmental Research: Common Pitfalls and **Best Practices**. *Environmental Science & Technology*, In print. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026). [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fedadc85ff8da84585463ecb1dd427dd7fa6fd548%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Machine-Learning-in-Environmental-Research%3A-Common-Zhu-Yang/edadc85ff8da84585463ecb1dd427dd7fa6fd548)
 
