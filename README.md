@@ -15,11 +15,11 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 ### **Research Gallery** 
 ![RG](https://junjiezhublog.files.wordpress.com/2023/07/research-gallery-202307m2-1.jpg)
-
+Enlarge the gallery to navigate any work you may be interested in, to my [**publication page**](https://junjiezhublog.wordpress.com/publications/) for more info.
 
 ---
 
-### **Representative Peer-reviewed Papers** 
+### **Selected Peer-reviewed Papers** 
 
 (Citation numbers are based on [semanticscholar API](https://api.semanticscholar.org/api-docs/graph#tag/Paper-Data/operation/get_graph_get_paper), check [Google Scholar](https://scholar.google.com/citations?user=n9Zatu8AAAAJ) for more accurate numbers)
 
