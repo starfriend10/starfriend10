@@ -14,7 +14,7 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 ---
 
 ##**Research Gallery** 
-(https://junjiezhublog.files.wordpress.com/2023/07/research-gallery-202307m2.jpg)
+![RG](https://junjiezhublog.files.wordpress.com/2023/07/research-gallery-202307m2.jpg)
 
 
 
@@ -53,7 +53,7 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 
 
-![Junjie Zhu, Ph.D.](https://junjiezhublog.files.wordpress.com/2023/06/artwork-1.jpg)
+![D4E](https://junjiezhublog.files.wordpress.com/2023/06/artwork-1.jpg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starfriend10)](https://github.com/anuraghazra/github-readme-stats)
 
