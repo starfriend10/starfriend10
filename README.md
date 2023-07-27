@@ -16,7 +16,6 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 ### **Research Gallery** 
 ![RG](https://junjiezhublog.files.wordpress.com/2023/07/research-gallery-202307m2-1.jpg)
 
-<a href="https://scholar.google.com/citations?user=n9Zatu8AAAAJ" target="_blank">Google Scholar</a>
 
 ---
 
