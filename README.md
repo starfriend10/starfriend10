@@ -7,7 +7,7 @@ Associate research scholar (i.e., research assistant professor) in the Departmen
 
 ---
 
-**Data4Environ**: Working on data science research and applications to environmental science and engineering
+**Data4Environ**: Data science and modeling research and applications to environmental science and engineering
 
 **Common Tags**: Environmental Engineering, Wastewater, Mechanstic Modeling, Data Science, Machine Learning, Deep Learning, Hybrid Modeling, Natural Language Processing, Soft Sensor, Text Mining, Metaheuristic
 
