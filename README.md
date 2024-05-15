@@ -1,6 +1,8 @@
 ### **Latest Updates**
 2023-08 I used Github years ago to store my earlier MATLAB GUI software. I will use Github more often as a vehicle to communicate my research efforts. Depending on the demands, I'm sharing Python or other open source code for past or current research work. Python codes for [Metaheuristics](https://github.com/starfriend10/Metaheuristics) (Genetic Algorithm (GA), Particle Swarm Optimization (PSO), and Grey Wolf Optimization (GWO)) and [Word2vec modeling](https://github.com/starfriend10/Word2vec) are shared.
+
 2021    A special [website](https://starfriend10.github.io/EST/) was designed and shared for interactive browsing data published in feature article "ES&T in the 21st century: A data-driven analysis of research topics, interconnections, and trends in the past 20 years".
+
 2019    [ISMLR package](https://github.com/starfriend10/ISMLR-package) (and [application](https://github.com/starfriend10/ISMLR-application)) was shared. The open accessed software was developed to conduct full dataset development and modeling using iterated stepwise multiple linear regression, which provided simutaneously missing data management and feature selection.
 
 ####
