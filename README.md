@@ -14,6 +14,8 @@
 
 Associate research scholar (i.e., research assistant professor) in the Department of Civil and Environmental Engineering and Andlinger Center for Energy and the Environment at the Princeton University. 
 
+Vice-chair and founding committee member of the [Hybrid Model Working Group (HMWG)](https://gitlab.com/hm_wg/homepage) at the [International Water Association](http://iwa-mia.org/task-groups-working-groups/#HM). 
+
 ---
 
 **Data4Environ**: Data science and modeling research and applications to environmental science and engineering
