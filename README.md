@@ -12,7 +12,6 @@
 ####
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://junjiezhublog.wordpress.com/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/starfriend10) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/junjiezhu//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/Jun_Jie_Zhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='30'>](https://www.researchgate.net/profile/Junjie-Zhu-14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='30'>](https://scholar.google.com/citations?user=n9Zatu8AAAAJ)<p align="left"> <img src="https://komarev.com/ghpvc/?username=starfriend10&label=Profile%20views&color=0e75b6&style=flat" alt="starfriend10" /> </p>
 
-**Current Position**
 
 Associate research scholar (i.e., research assistant professor) in the Department of Civil and Environmental Engineering (CEE) and Andlinger Center for Energy and the Environment (ACEE) at the Princeton University. 
 
