@@ -1,5 +1,5 @@
 ### **Latest Updates**
-**2025-05** Simple bibliography search could miss many important research even through scientific database, NLP-based comprehensive literature retrieval can significantly improve relevant publication identification. I developed such a method in 2020 and applied it to numerious studies since then, and now I'm happy to share it. Please check [NLP-PubMiner](https://github.com/starfriend10/NLP-PubMiner) and feel free to adapt it to your project!
+**2025-05** A simple bibliography search could miss many important research even through scientific database, NLP-based comprehensive literature retrieval can significantly improve relevant publication identification. I developed such a method in 2020 and applied it to numerious studies since then, and now I'm happy to share it. Please check [NLP-PubMiner](https://github.com/starfriend10/NLP-PubMiner) and feel free to adapt it to your project!
 
 **2025-01** The long form QA dataset used in [our recent GPT paper](https://doi.org/10.1021/acs.estlett.4c00665) is now shared in the GitHub repository [ENVIRONLLMQA](https://github.com/starfriend10/ENVIRONLLMQA). The dataset includes 286 what/how/why QA data focusing on Biological Wastewater Treatment. The repository will also be used to store and share future environmental datasets curated for domain-specific large language model development.
 
