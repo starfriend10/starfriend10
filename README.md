@@ -17,7 +17,7 @@
 
 Associate research scholar (i.e., research assistant professor) in the Department of Civil and Environmental Engineering (CEE) and Andlinger Center for Energy and the Environment (ACEE) at the Princeton University. 
 
-Vice-chair and founding committee member of the [Hybrid Model Working Group (HMWG)](https://gitlab.com/hm_wg/homepage) at the [International Water Association](http://iwa-mia.org/task-groups-working-groups/#HM). 
+Vice-chair and founding committee member of the [Hybrid Model Working Group (HMWG)](https://gitlab.com/hm_wg/homepage), [International Water Association](http://iwa-mia.org/task-groups-working-groups/#HM). 
 
 Member of the [Intelligent Water Technology Q&A Forum Specialists](https://community.wef.org/topics/18723/page/leadership), Water Environment Federation
 
