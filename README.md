@@ -58,6 +58,8 @@ Enlarge the gallery to navigate any work you may be interested in, to my [**publ
 
 ### **Selected Talks and Presentations** 
 
+“Environmental Domain-Specific Large Language Models for Expert-Level Closed-Book Question-Answering”. August, 2024. **Invited conference talk. ACS 2024 Fall**. Denver, CO.
+
 “Common Pitfalls and Best Practices in ML for Environmental Research”. June, 2023. **2023 AEESP conference**. Northeastern University, Boston, MA. [Presentation Slides](https://junjiezhublog.files.wordpress.com/2023/06/aeesp-junjie-final-slides-sharing-1.pdf)
 
 “Utilizing Soft Sensor System for Process Control and Optimization”. October, 2021. 2021 WRF/WEF Leaders Innovation Forum for Technology (LIFT) Intelligent Water Systems (**IWS**) **Challenge**. 2021 WEFTEC, Chicago, IL. (First place prize). [News Webpage](https://www.waterrf.org/news/2021-intelligent-water-systems-challenge)
